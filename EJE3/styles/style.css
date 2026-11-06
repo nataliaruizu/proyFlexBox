@@ -1,0 +1,35 @@
+html {
+
+    background-color: rgb(200, 200, 200);
+}
+
+body {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: sans-serif;
+
+}
+
+body div {
+
+    background-color: rgb(190, 190, 190);
+    padding: 40px 30px;
+    margin-bottom: 15px;
+    width: 500px;
+    font-size: 20px;
+
+
+}
+
+body p {
+
+    background-color: rgb(190, 190, 190);
+    width: 500px;
+
+
+
+}

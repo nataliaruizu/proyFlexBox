@@ -1,0 +1,57 @@
+#Botones {
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: rgb(128, 128, 128);
+    gap: 30px;
+
+}
+
+#Botones a:hover {
+
+    background-color:gray;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+   
+   
+}
+
+#Botones a {
+
+    color: rgb(128, 128, 128);
+    text-decoration: none;
+    padding: 10px;
+    
+}
+
+
+#Idiomas {
+
+    display: flex;
+    align-items: flex-end;
+    gap: 10px ;
+
+
+}
+
+#Idiomas a {
+
+    color: rgb(255, 255, 255);
+    background-color: rgb(128, 128, 128);
+    text-decoration: none;
+    padding: 12px;
+
+
+
+}
+
+
+nav {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+
+}
